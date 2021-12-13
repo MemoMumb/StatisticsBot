@@ -3,6 +3,7 @@ import os
 import numpy as np
 import matplotlib.pyplot as plt
 from discord.ext.commands import Bot
+
 TOKEN = os.environ['DISCORD_TOKEN']
 
 BOT_PREFIX = ("=")
